@@ -1,0 +1,18 @@
+#blueitem {
+    color:rgb(64, 64, 204);
+    font-size: 36px;
+}
+
+#greenitem {
+    background-color: rgb(50, 211, 50);
+    font-size: 24px;
+    font-weight: bold;
+}
+.red_els {
+    background-color: rgb(224, 152, 224);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.red_els.third {
+    font-size:24px;
+}
